@@ -10,6 +10,7 @@ VERMELHO_ESCURO = (145,0,0)    #NÃO SEI SE FICOU UMA COR LEGAL
 pygame.init()
 janela = pygame.display.set_mode((800, 600))
 pygame.display.set_caption('Jogo de Damas')
+#testeeeeee
 
 #página inicial (desenhos)
 janela.fill(PRETO)  #fundo preto
